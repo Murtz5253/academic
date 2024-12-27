@@ -4,6 +4,9 @@ summary: My courses
 type: page
 ---
 
+# View.
+view: citation
+
 ### Graduate
 - **Co-Instructor, Winter 2023, HCDE 511: Information Visualization**  
   University of Washington.
