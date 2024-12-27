@@ -1,6 +1,7 @@
 ---
 title: Publications
 cms_exclude: true
+type: page
 
 # View.
 view: citation
