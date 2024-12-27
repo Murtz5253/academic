@@ -2,7 +2,6 @@
 title: Teaching
 summary: My courses
 type: page
-view: citation
 ---
 
 ### Graduate
