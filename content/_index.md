@@ -21,7 +21,7 @@ sections:
     design:
       css_class: light
       background:
-        color: black
+        color: white
         image:
           # Add your image background to `assets/media/`.
           filename: # stacked-peaks.svg
@@ -30,14 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: 'My Research'
-      subtitle: ''
-      text: |-
-        The system is broken; let's fix it.
-    design:
-      columns: '1'
   - block: collection
     content:
       title: Recent Publications
